@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163633333549",
+    "project_id": "lista-de-contat",
+    "storage_bucket": "lista-de-contat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163633333549:android:c05d946730b176e3f7bfa4",
+        "android_client_info": {
+          "package_name": "com.example.listadecontatos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWt_VeRMin3pvfIhX6QC8drf4y2ljaus4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
